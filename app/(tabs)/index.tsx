@@ -11,7 +11,7 @@ export default function HomeScreen() {
 
   return (
     <ParallaxScrollView
-      headerBackgroundColor={{ light: "#A1CEDC", dark: "#1D3D47" }}
+      headerBackgroundColor={{ light: "#A1CEDC", dark: "#000" }}
       headerImage={
         <Image
           // Ensure assets/images/sardar-asad.jpg exists in the project root
